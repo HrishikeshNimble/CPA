@@ -1,0 +1,21 @@
+PROGRAMMING LEVEL: PRODUCT: DATA TYPE
+
+IMPLEMENTATION: 
+    1) Layout definition of data type. 
+    2) Body of interface functions. 
+
+INTERFACE: 
+    1) Type name 
+    2) Headers/Signatures/Prototypes/Declaration of interface functions 
+
+#--------------------------------------------------------------------------------
+
+PACKAGING: 
+    HEADER FILE: 
+        TYPE NAME 
+        DECLARATION OF INTERFACE FUNCTIONS 
+
+    LIB FILE: 
+        IMPLEMENTATION OF INTERFACE FUNCTIONS IN BINARY FORM 
+
+#--------------------------------------------------------------------------
